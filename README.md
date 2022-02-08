@@ -1,2 +1,2 @@
 # Survey-Form
-Survey Form built with JavaScript, CSS, HTML
+Survey Form built with HTML and CSS
